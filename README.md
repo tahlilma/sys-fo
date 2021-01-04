@@ -4,6 +4,12 @@ I basically wrote this when i was inspired by this command line tool called neo-
 This is nothing special and its around 58 lines of code.
 It shows the CPU, OS, Memory and Load information.
 This uses Prompts and Systeminformation to show everything.
+## Readme Contents
+* Showcase
+* Usage
+
+## Showcase
+![gif](https://github.com/bruhmoment6420/sys-fo/blob/main/images/ezgif-7-00d78ab2aedf.gif)
 
 ## Usage  
 The following steps shows how to use Sys-Fo.
