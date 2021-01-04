@@ -1,3 +1,5 @@
+![LOGO](https://github.com/bruhmoment6420/sys-fo/blob/main/images/logo.png)
+
 # sys-fo
 I basically wrote this when i was inspired by this command line tool called neo-fetch.
 This is nothing special and its around 58 lines of code.
