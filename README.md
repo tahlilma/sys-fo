@@ -12,28 +12,35 @@ This uses Prompts and Systeminformation to show everything.
 ![gif](https://github.com/bruhmoment6420/sys-fo/blob/main/images/ezgif-7-00d78ab2aedf.gif)
 
 ## Usage  
-The following steps shows how to use Sys-Fo.
-### Step 1
+The following describes the ways to use the app.
+
+### Easy Way:
+Download one of the binaries given in the releases section according to your os.
+
+### Manual Way:
+The following steps shows how to use Sys-Fo manually.
+
+#### Step 1
 Clone the project repo:
 ```
 git clone https://github.com/bruhmoment6420/sys-fo.git
 ```
-### Step 2
+#### Step 2
 Go into the project directory:
 ```
 cd sys-fo
 ```
-### Step 3 
+#### Step 3 
 Install the necessary packages:
 ```
 npm install
 ```
-### Step 4
+#### Step 4
 Go into the ```src``` folder:
 ```
 cd src
 ```
-### Step 5
+#### Step 5
 Run the app:
 ```
 node index.js
