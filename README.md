@@ -5,7 +5,7 @@ This is nothing special and its around 58 lines of code.
 It shows the CPU, OS, Memory and Load information.
 This uses Prompts and Systeminformation to show everything.
 ## Readme Contents
-* Showcase
+* Demo
 * Usage
 
 ## Demo
