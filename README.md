@@ -8,8 +8,8 @@ This uses Prompts and Systeminformation to show everything.
 * Showcase
 * Usage
 
-## Showcase
-![gif](https://github.com/bruhmoment6420/sys-fo/blob/main/images/ezgif-7-00d78ab2aedf.gif)
+## Demo
+![gif](https://github.com/bruhmoment6420/sys-fo/blob/main/images/demo.gif)
 
 ## Usage  
 The following describes the ways to use the app.
