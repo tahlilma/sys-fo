@@ -35,13 +35,8 @@ Install the necessary packages:
 ```
 npm install
 ```
-#### Step 4
-Go into the ```src``` folder:
-```
-cd src
-```
-#### Step 5
+### Step 4
 Run the app:
 ```
-node index.js
+npm start
 ```

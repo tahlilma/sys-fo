@@ -1,5 +1,6 @@
 const si = require("systeminformation");
 const prompts = require("prompts");
+const clear = require("clear");
 
 const log = console.log;
 
@@ -43,6 +44,7 @@ const log = console.log;
 
   // Called if user says no
   const userDecline = () => {
+    clear();
     return `Invalid Operation or Press CTRL + C or CTRL + Z to exit`;
   };
 
