@@ -38,5 +38,5 @@ npm install
 ### Step 4
 Run the app:
 ```
-npm start
+npm run start
 ```
