@@ -12,9 +12,35 @@ This uses Prompts and Systeminformation to show everything.
 ![gif](https://github.com/bruhmoment6420/sys-fo/blob/main/images/demo.gif)
 
 ## Usage  
-The following describes the ways to use the app.
+The following describes the ways to use the app. (ALL REQUIRE NODE TO BE INSTALLED)
 
-### Easy Way:
+### Installation Way:
+This is the recommended way to use this app.
+
+#### Step 1
+Clone the project repo:
+```
+git clone https://github.com/bruhmoment6420/sys-fo.git
+```
+#### Step 2
+Go into the project directory:
+```
+cd sys-fo
+```
+#### Step 3
+Install the dependencies:
+```
+npm install
+```
+#### Step 4
+Install globally:
+```
+npm install -global
+```
+#### Step 5
+Run the app by typing ```sysfo``` anywhere in the console. It is now installed globally and can be used at a moments notice.
+
+### Downloaded Way (broken):
 Download one of the binaries given in the releases section according to your os.
 
 ### Manual Way:
