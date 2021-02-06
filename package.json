@@ -2,7 +2,7 @@
   "name": "Sys-Fo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./src/index.js",
@@ -18,5 +18,8 @@
   },
   "devDependencies": {
     "@types/node": "^14.14.20"
+  },
+  "bin": {
+    "sysfo": "./bin/index.js"
   }
 }
