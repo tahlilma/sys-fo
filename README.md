@@ -28,7 +28,7 @@ Go into the project directory:
 cd sys-fo
 ```
 #### Step 3
-Install dependencies
+Install dependencies:
 ```
 npm run mount
 ```
