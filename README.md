@@ -28,14 +28,9 @@ Go into the project directory:
 cd sys-fo
 ```
 #### Step 3
-Install the dependencies:
+Install the app globally (In the case of a permission error. For linux use the ```sudo``` command in front to get admin perms. For windows just open a Admin Prompt):
 ```
-npm install
-```
-#### Step 4
-Install globally:
-```
-npm install -global
+npm run mount
 ```
 #### Step 5
 Run the app by typing ```sysfo``` anywhere in the console. It is now installed globally and can be used at a moments notice.
